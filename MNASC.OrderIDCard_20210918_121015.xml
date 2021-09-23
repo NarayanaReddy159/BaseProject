@@ -1,0 +1,108 @@
+<?xml version="1.0"?><HHP-CS-CSD-WORK-OrderIDCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<item id="HHP_CS_CSD_WORK_IDC_6399">
+<ASPID>HMK</ASPID>
+<AssignedToWorkGroup>PAEnrollmentSetup</AssignedToWorkGroup>
+<CAParentID>LVI-81600</CAParentID>
+<ConfirmLostOrStolen>false</ConfirmLostOrStolen>
+<ContactName>HOLLI BREITLING</ContactName>
+<CostCenter>06026</CostCenter>
+<GetSelectedMembers subscript="1">
+<DateOfBirth>1929-02-25</DateOfBirth>
+<FullName>HOLLI C BREITLING</FullName>
+<IndividualRelationshipCode>18</IndividualRelationshipCode>
+<NumberOfCards>1</NumberOfCards>
+<pxListSubscript>1</pxListSubscript>
+</GetSelectedMembers>
+<InteractionType>phone</InteractionType>
+<NewAssignee>HMKPAEnrollment</NewAssignee>
+<OrigOrgUnitDescription>TechTeam1</OrigOrgUnitDescription>
+<Policy>
+<ContractID>JOL1011658030010</ContractID>
+<Group>
+<GroupIdentifier>05847255</GroupIdentifier>
+<GroupName>Security Blue HMO-POS Deluxe MAPD WPA SW</GroupName>
+<ServicingPlan>363</ServicingPlan>
+</Group>
+<Members subscript="1">
+<RelationshipCodeDesc>18 - SELF</RelationshipCodeDesc>
+</Members>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T06:51:47.351Z</pxCreateDateTime>
+<pxCreateOperator>vid9505</pxCreateOperator>
+<pxCreateOpName>Hemalatha Reddy</pxCreateOpName>
+<pxUpdateDateTime>2021-09-18T04:00:12.840Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUrgencyWork>1</pxUrgencyWork>
+<pyCountry>United States Of America</pyCountry>
+<pyDescription>Request ID Cards</pyDescription>
+<pyID>IDC-6399</pyID>
+<pyLabel>Request ID Cards</pyLabel>
+<pyOrigOrgUnit>007726</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>COBProcessing2</pyOrigUserWorkgroup>
+<pyOwnerOrgUnit>007726</pyOwnerOrgUnit>
+<pySLADeadline>2021-09-17T16:51:47.413Z</pySLADeadline>
+<pySLAGoal>2021-09-17T11:51:47.412Z</pySLAGoal>
+<pyStatusWork>Pending-Processing</pyStatusWork>
+
+<pyWorkParty subscript="Company">
+<ControlPlan>363</ControlPlan>
+<GroupName>Security Blue HMO-POS Deluxe MAPD WPA SW</GroupName>
+</pyWorkParty>
+<pyWorkParty subscript="Contact">
+<FullName>HOLLI BREITLING</FullName>
+<pyFirstName>HOLLI</pyFirstName>
+<pyLastName>BREITLING</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Group">
+<ControlPlan>363</ControlPlan>
+<GroupName>Security Blue HMO-POS Deluxe MAPD WPA SW</GroupName>
+<GroupNumber>05847255</GroupNumber>
+<ProductList subscript="1">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>HMO</LineOfBusinessCode>
+<ProductType>XN</ProductType>
+</ProductList>
+<ProductList subscript="2">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PDG</LineOfBusinessCode>
+<ProductType>XN</ProductType>
+</ProductList>
+<ProductList subscript="3">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>DEN</LineOfBusinessCode>
+<ProductType>XN</ProductType>
+</ProductList>
+<ProductList subscript="4">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>VIS</LineOfBusinessCode>
+<ProductType>XN</ProductType>
+</ProductList>
+<pyCompany>SecurityBlue Direct Pay Keystone Medicare HMO</pyCompany>
+</pyWorkParty>
+<pyWorkParty subscript="Member">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1929-02-25</DateOfBirth>
+<FullName>HOLLI C BREITLING</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>18</IndividualRelationshipCode>
+<MemberID>884021745</MemberID>
+<pyFirstName>HOLLI</pyFirstName>
+<pyLastName>BREITLING</pyLastName>
+</pyWorkParty>
+<Sendtotemp>false</Sendtotemp>
+<SetMailingAddress subscript="1">
+<Address>3315 ARROWOOD LANE   </Address>
+<AddressType>X1</AddressType>
+<AddressTypeDesc>CORRESPONDENCE ADDRESS</AddressTypeDesc>
+<City>PITTSBURGH</City>
+<pyCountry>USA</pyCountry>
+<pyRowSelected>true</pyRowSelected>
+<State>PA</State>
+<ZipCode>15205</ZipCode>
+</SetMailingAddress>
+<pzInsKey>HHP-CS-CSD-WORK IDC-6399</pzInsKey>
+</item>
+</HHP-CS-CSD-WORK-OrderIDCard>

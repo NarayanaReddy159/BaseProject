@@ -1,0 +1,1996 @@
+<?xml version="1.0"?><HHP-CS-CSD-WORK-Interaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_78822">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>007726</AssignedToOrgUnit>
+<AssignedToWorkGroup>Default@HMK</AssignedToWorkGroup>
+<ContactList subscript="1">
+<ContactName>ERRIKA L MUJICA</ContactName>
+<FullName>ERRIKA L MUJICA</FullName>
+<RelationshipTypeCode>02</RelationshipTypeCode>
+</ContactList>
+<ContactList subscript="2">
+<ContactName>LESHA U MUJICA</ContactName>
+<FullName>LESHA U MUJICA</FullName>
+<RelationshipTypeCode>01</RelationshipTypeCode>
+</ContactList>
+<ContactName>CLELLON MUJICA</ContactName>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<DisclosureValue>Full, follow minimum necessary</DisclosureValue>
+<FinancialCostingType>Phone</FinancialCostingType>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<IsCallerAlsoAMember>true</IsCallerAlsoAMember>
+<IsCallerAlsoSubscriber>false</IsCallerAlsoSubscriber>
+<NewAssignee>vid9267</NewAssignee>
+<NewAssigneeName>Meenal Jain</NewAssigneeName>
+<OrgUnitDescription>TechTeam</OrgUnitDescription>
+<OriginalMember>
+<isVerifyDelegated>false</isVerifyDelegated>
+<PhoneList subscript="1">
+<PhoneNumber>4121112222</PhoneNumber>
+</PhoneList>
+</OriginalMember>
+<OrigOrgUnitDescription>TechTeam</OrigOrgUnitDescription>
+<Policies subscript="1">
+<ContractID>YYQ1165888680010</ContractID>
+<EffectiveDate>2019-12-01</EffectiveDate>
+<GroupName>Miller Communications dba Miller Information Systems</GroupName>
+<LineOfBusiness>Medical,RX Drug,Dental,Vision</LineOfBusiness>
+<PolicyStatus>Active</PolicyStatus>
+<ProductCode>PPO,PDG,DEN,VIS</ProductCode>
+</Policies>
+<Policies subscript="2">
+<ContractID>YYQ1165888680010</ContractID>
+<EffectiveDate>2019-01-01</EffectiveDate>
+<GroupName>Miller Communications d/b/a Miller Information Systems</GroupName>
+<LineOfBusiness>Medical,RX Drug,Dental,Vision</LineOfBusiness>
+<PolicyStatus>Canceled</PolicyStatus>
+<ProductCode>PPO,PDG,DEN,VIS</ProductCode>
+<TermDate>2019-12-01</TermDate>
+</Policies>
+<Policies subscript="3">
+<ContractID>YYQ1165888680010</ContractID>
+<EffectiveDate>2019-12-01</EffectiveDate>
+<GroupName>Miller Communications Inc d/b/a Miller Information Systems</GroupName>
+<PolicyStatus>Canceled</PolicyStatus>
+<TermDate>2019-12-01</TermDate>
+</Policies>
+<Policies subscript="4">
+<ContractID>YYQ1165888680010</ContractID>
+<EffectiveDate>2019-12-01</EffectiveDate>
+<GroupName>Miller Communications Inc d/b/a Miller Information Systems</GroupName>
+<PolicyStatus>Canceled</PolicyStatus>
+<TermDate>2019-12-01</TermDate>
+</Policies>
+<Policies subscript="5">
+<ContractID>YYQ1165888680010</ContractID>
+<EffectiveDate>2019-12-01</EffectiveDate>
+<GroupName>Miller Communications Inc d/b/a Miller Information Systems</GroupName>
+<PolicyStatus>Canceled</PolicyStatus>
+<TermDate>2019-12-01</TermDate>
+</Policies>
+<Policies subscript="6">
+<ContractID>YYQ1165888680010</ContractID>
+<EffectiveDate>2019-12-01</EffectiveDate>
+<GroupName>Miller Communications dba Miller Information Systems</GroupName>
+<PolicyStatus>Canceled</PolicyStatus>
+<TermDate>2019-12-01</TermDate>
+</Policies>
+<Policy>
+<ContractDisplay>YYQ1165888680010 - Miller Communications dba Miller Information Systems - 12/1/2019 - PPO,PDG,DEN,VIS - Medical,RX Drug,Dental,Vision</ContractDisplay>
+<ContractID>YYQ1165888680010</ContractID>
+<CoverageLOBList subscript="1">
+<LOBCode>PPO</LOBCode>
+<LOBDescription>PREFERRED PROVIDER ORG</LOBDescription>
+<ProductName>CB PPO Med/Surg</ProductName>
+</CoverageLOBList>
+<CoverageLOBList subscript="2">
+<LOBCode>PDG</LOBCode>
+<LOBDescription>PRESCRIPTION DRUG</LOBDescription>
+<ProductName>Rx Drug - CB PPO</ProductName>
+</CoverageLOBList>
+<CoverageLOBList subscript="3">
+<LOBCode>DEN</LOBCode>
+<LOBDescription>DENTAL</LOBDescription>
+<ProductName>WPA P10Wo 1500 ST 50/150 1000</ProductName>
+</CoverageLOBList>
+<CoverageLOBList subscript="4">
+<LOBCode>VIS</LOBCode>
+<LOBDescription>VISION</LOBDescription>
+<ProductName>Fashion Advantage - Opt V</ProductName>
+</CoverageLOBList>
+<EffectiveDate>2019-12-01</EffectiveDate>
+<Group>
+<ControlPlan>363</ControlPlan>
+<ControlPlanDescription>HIGHMARK BLUE CROSS BLUE SHIELD</ControlPlanDescription>
+<GroupIdentifier>10499972</GroupIdentifier>
+<GroupIndicator>10499972</GroupIndicator>
+<GroupName>Miller Communications dba Miller Information Systems</GroupName>
+<ServicingPlan>363</ServicingPlan>
+</Group>
+<InternalContractID>6813959380</InternalContractID>
+<Members subscript="1">
+<AssociatedContacts subscript="1">
+<PersonID>550629366</PersonID>
+</AssociatedContacts>
+<AssociatedContacts subscript="2">
+<PersonID>289480683</PersonID>
+</AssociatedContacts>
+<DateOfBirth>1978-11-09</DateOfBirth>
+<EffectiveDate>2019-12-01</EffectiveDate>
+<FullName>CLELLON B MUJICA</FullName>
+<GenderCode>male</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<IndividualRelationshipDescription>EMPLOYEE</IndividualRelationshipDescription>
+<LOIResponseDate>2021-12-25</LOIResponseDate>
+<MemberID>457339491</MemberID>
+<MemberIndex>001</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>20 - EMPLOYEE</RelationshipCodeDesc>
+</Members>
+<Members subscript="2">
+<AssociatedContacts subscript="1">
+<PersonID>457339491</PersonID>
+</AssociatedContacts>
+<AssociatedContacts subscript="2">
+<PersonID>289480683</PersonID>
+</AssociatedContacts>
+<DateOfBirth>1982-10-24</DateOfBirth>
+<EffectiveDate>2019-12-01</EffectiveDate>
+<FullName>LESHA U MUJICA</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>01</IndividualRelationshipCode>
+<IndividualRelationshipDescription>SPOUSE</IndividualRelationshipDescription>
+<LOIResponseDate>2021-12-25</LOIResponseDate>
+<MemberID>550629366</MemberID>
+<MemberIndex>002</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>01 - SPOUSE</RelationshipCodeDesc>
+</Members>
+<Members subscript="3">
+<AssociatedContacts subscript="1">
+<PersonID>457339491</PersonID>
+</AssociatedContacts>
+<AssociatedContacts subscript="2">
+<PersonID>550629366</PersonID>
+</AssociatedContacts>
+<DateOfBirth>2000-02-04</DateOfBirth>
+<EffectiveDate>2019-12-01</EffectiveDate>
+<FullName>ERRIKA L MUJICA</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>02</IndividualRelationshipCode>
+<IndividualRelationshipDescription>SON OR DAUGHTER</IndividualRelationshipDescription>
+<LOIResponseDate>2021-12-25</LOIResponseDate>
+<MemberID>289480683</MemberID>
+<MemberIndex>003</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>02 - SON OR DAUGHTER</RelationshipCodeDesc>
+</Members>
+<PolicyType>FAM</PolicyType>
+<PolicyTypeDesc>FAMILY</PolicyTypeDesc>
+<ProductCode>PPO,PDG,DEN,VIS</ProductCode>
+<SubscriberName>CLELLON B MUJICA</SubscriberName>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-06T17:58:55.328Z</pxCreateDateTime>
+<pxCreateOperator>vid9267</pxCreateOperator>
+<pxCreateOpName>Meenal Jain</pxCreateOpName>
+<pxUpdateDateTime>2021-09-07T03:58:59.224Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUpdateOrgUnit>007726</pxUpdateOrgUnit>
+<pxUrgencyWork>1</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-78822</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>007726</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>Default@HMK</pyOrigUserWorkgroup>
+<pySLADeadline>2021-09-07T03:58:55.349Z</pySLADeadline>
+<pySLAGoal>2021-09-06T22:58:55.349Z</pySLAGoal>
+<pyStatusWork>Open</pyStatusWork>
+
+<pyWorkParty subscript="Company">
+<ControlPlan>363</ControlPlan>
+<GroupName>Miller Communications dba Miller Information Systems</GroupName>
+</pyWorkParty>
+<pyWorkParty subscript="Contact">
+<FullName>CLELLON MUJICA</FullName>
+<pyFirstName>CLELLON</pyFirstName>
+<pyLastName>MUJICA</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Group">
+<BusinessRelationshipCode>363</BusinessRelationshipCode>
+<BusinessRelationshipCodeDescription>363 Highmark Blue Cross Blue Shield</BusinessRelationshipCodeDescription>
+<ControlPlan>363</ControlPlan>
+<CustomerServiceNumber>1-877-258-3123</CustomerServiceNumber>
+<EffectiveDate>2019-12-11</EffectiveDate>
+<ERISAIndicator>true</ERISAIndicator>
+<GroupID>048059</GroupID>
+<GroupName>Miller Communications dba Miller Information Systems</GroupName>
+<GroupNumber>10499972</GroupNumber>
+<GroupStatus>100</GroupStatus>
+<MarketSegmentDescription>Local</MarketSegmentDescription>
+<ProductList subscript="1">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>DEN</LineOfBusinessCode>
+<ProductName>WPA P10Wo 1500 ST 50/150 1000</ProductName>
+<ProductType>PB</ProductType>
+<RatingCode>1</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="2">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PDG</LineOfBusinessCode>
+<ProductName>Rx Drug - CB PPO</ProductName>
+<ProductType>I5</ProductType>
+<RatingCode>1</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="3">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PPO</LineOfBusinessCode>
+<ProductName>CB PPO Med/Surg</ProductName>
+<ProductType>I5</ProductType>
+<RatingCode>1</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="4">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>VIS</LineOfBusinessCode>
+<ProductName>Fashion Advantage - Opt V</ProductName>
+<ProductType>DV</ProductType>
+<RatingCode>1</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="5">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>AG</LineOfBusinessCode>
+<ProductName>Service - myCare Navigator -  December</ProductName>
+<RatingCode>1</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="6">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>AG</LineOfBusinessCode>
+<ProductName>Service - Well360 CORE -FI</ProductName>
+<RatingCode>1</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<pyCompany>Miller Communications Inc d/b/a Miller Information Systems</pyCompany>
+<SalesRepsList subscript="1">
+<DistrictCode>Pittsburgh Region</DistrictCode>
+<EffectiveDate>2020-12-01T05:00:00.000Z</EffectiveDate>
+<FullName>Tiara Meals</FullName>
+<SalesRepresentativeType>2</SalesRepresentativeType>
+</SalesRepsList>
+</pyWorkParty>
+<pyWorkParty subscript="Member">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1978-11-09</DateOfBirth>
+<EffectiveDate>2019-12-01</EffectiveDate>
+<FullName>CLELLON B MUJICA</FullName>
+<GenderCode>male</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<MemberID>457339491</MemberID>
+<MemberPortalRegistrationIndicator>false</MemberPortalRegistrationIndicator>
+<PhoneList subscript="1">
+<PhoneNumber>4121112222</PhoneNumber>
+<PhoneType>mobile</PhoneType>
+</PhoneList>
+<pyFirstName>CLELLON</pyFirstName>
+<pyLastName>MUJICA</pyLastName>
+</pyWorkParty>
+<SearchEndDate>2022-03-08</SearchEndDate>
+<SearchStartDate>2016-09-06</SearchStartDate>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-78822</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81602">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>007726</AssignedToOrgUnit>
+<AssignedToWorkGroup>COBProcessing2</AssignedToWorkGroup>
+<ContactList subscript="1">
+<ContactName>AMICHAI A BUEHRER</ContactName>
+<FullName>AMICHAI A BUEHRER</FullName>
+<RelationshipTypeCode>20</RelationshipTypeCode>
+</ContactList>
+<ContactList subscript="2">
+<ContactName>JELLISA BUEHRER</ContactName>
+<FullName>JELLISA BUEHRER</FullName>
+<RelationshipTypeCode>01</RelationshipTypeCode>
+</ContactList>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<DisclosureValue>Limited, General Information</DisclosureValue>
+<FinancialCostingType>Phone</FinancialCostingType>
+<GroupIndicatorList subscript="1">
+<CategoryCode>VB</CategoryCode>
+<Desc>Value Based</Desc>
+</GroupIndicatorList>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<IsCallerAlsoAMember>true</IsCallerAlsoAMember>
+<IsCallerAlsoSubscriber>true</IsCallerAlsoSubscriber>
+<NewAssignee>vid9321</NewAssignee>
+<NewAssigneeName>Srilekha Ramanadhapuram</NewAssigneeName>
+<OrgUnitDescription>TechTeam1</OrgUnitDescription>
+<OriginalMember>
+<isVerifyDelegated>false</isVerifyDelegated>
+</OriginalMember>
+<OrigOrgUnitDescription>TechTeam1</OrigOrgUnitDescription>
+<Policies subscript="1">
+<ContractID>QIW1031987310010</ContractID>
+<EffectiveDate>2020-05-01</EffectiveDate>
+<GroupName>Iron Workers of WPA CB High Active</GroupName>
+<LineOfBusiness>Medical,RX Drug</LineOfBusiness>
+<PolicyStatus>Active</PolicyStatus>
+<ProductCode>PPO,PDG</ProductCode>
+</Policies>
+<Policy>
+<ContractDisplay>QIW1031987310010 - Iron Workers of WPA CB High Active - 5/1/2020 - PPO,PDG - Medical,RX Drug</ContractDisplay>
+<ContractID>QIW1031987310010</ContractID>
+<CoverageLOBList subscript="1">
+<LOBCode>PPO</LOBCode>
+<LOBDescription>PREFERRED PROVIDER ORG</LOBDescription>
+<ProductName>Community Blue PPO Medical/Surg</ProductName>
+</CoverageLOBList>
+<CoverageLOBList subscript="2">
+<LOBCode>PDG</LOBCode>
+<LOBDescription>PRESCRIPTION DRUG</LOBDescription>
+<ProductName>Rx Drug - PPO Blue</ProductName>
+</CoverageLOBList>
+<EffectiveDate>2020-05-01</EffectiveDate>
+<Group>
+<ControlPlan>363</ControlPlan>
+<ControlPlanDescription>HIGHMARK BLUE CROSS BLUE SHIELD</ControlPlanDescription>
+<GroupIdentifier>01725600</GroupIdentifier>
+<GroupIndicator>01725600</GroupIndicator>
+<GroupName>Iron Workers of WPA CB High Active</GroupName>
+<ServicingPlan>363</ServicingPlan>
+</Group>
+<InternalContractID>3686092280</InternalContractID>
+<Members subscript="1">
+<DateOfBirth>1958-02-04</DateOfBirth>
+<EffectiveDate>2020-05-01</EffectiveDate>
+<FullName>AMICHAI A BUEHRER</FullName>
+<GenderCode>male</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<IndividualRelationshipDescription>EMPLOYEE</IndividualRelationshipDescription>
+<MemberIndex>005</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>20 - EMPLOYEE</RelationshipCodeDesc>
+</Members>
+<Members subscript="2">
+<DateOfBirth>1960-05-16</DateOfBirth>
+<EffectiveDate>2020-05-01</EffectiveDate>
+<FullName>JELLISA BUEHRER</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>01</IndividualRelationshipCode>
+<IndividualRelationshipDescription>SPOUSE</IndividualRelationshipDescription>
+<MemberIndex>006</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>01 - SPOUSE</RelationshipCodeDesc>
+</Members>
+<PolicyType>ESP</PolicyType>
+<PolicyTypeDesc>EMPLOYEE AND SPOUSE</PolicyTypeDesc>
+<ProductCode>PPO,PDG</ProductCode>
+<SubscriberName>AMICHAI A BUEHRER</SubscriberName>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T07:23:49.729Z</pxCreateDateTime>
+<pxCreateOperator>vid9321</pxCreateOperator>
+<pxCreateOpName>Srilekha Ramanadhapuram</pxCreateOpName>
+<pxUpdateDateTime>2021-09-17T17:23:58.453Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUpdateOrgUnit>007726</pxUpdateOrgUnit>
+<pxUrgencyWork>1</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81602</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>007726</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>COBProcessing2</pyOrigUserWorkgroup>
+<pySLADeadline>2021-09-17T17:23:49.754Z</pySLADeadline>
+<pySLAGoal>2021-09-17T12:23:49.754Z</pySLAGoal>
+<pyStatusWork>Open</pyStatusWork>
+
+<pyWorkParty subscript="Company">
+<ControlPlan>363</ControlPlan>
+<GroupName>Iron Workers of WPA CB High Active</GroupName>
+</pyWorkParty>
+<pyWorkParty subscript="Contact">
+<FullName>JELLISA BUEHRER</FullName>
+<pyFirstName>JELLISA</pyFirstName>
+<pyLastName>BUEHRER</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Group">
+<BusinessRelationshipCode>363</BusinessRelationshipCode>
+<BusinessRelationshipCodeDescription>363 Highmark Blue Cross Blue Shield</BusinessRelationshipCodeDescription>
+<ControlPlan>363</ControlPlan>
+<CustomerServiceNumber>1-800-241-5704</CustomerServiceNumber>
+<EffectiveDate>2014-01-01</EffectiveDate>
+<ERISAIndicator>true</ERISAIndicator>
+<GroupID>000110</GroupID>
+<GroupName>Iron Workers of WPA CB High Active</GroupName>
+<GroupNumber>01725600</GroupNumber>
+<GroupStatus>100</GroupStatus>
+<MarketSegmentDescription>Local</MarketSegmentDescription>
+<ProductList subscript="1">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PDG</LineOfBusinessCode>
+<ProductName>Rx Drug - PPO Blue</ProductName>
+<ProductType>I5</ProductType>
+<RatingCode>1</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="2">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>AG</LineOfBusinessCode>
+<ProductName>Service - myCare Navigator - January </ProductName>
+<RatingCode>10</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="3">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>AG</LineOfBusinessCode>
+<ProductName>Service - Well360 CORE -FI</ProductName>
+<RatingCode>1</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="4">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>AG</LineOfBusinessCode>
+<ProductName>Service - Second Medical Opinion</ProductName>
+<RatingCode>1</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="5">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PPO</LineOfBusinessCode>
+<ProductName>Community Blue PPO Medical/Surg</ProductName>
+<ProductType>I5</ProductType>
+<RatingCode>1</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<pyCompany>Iron Workers Welfare Plan of Western PA</pyCompany>
+<SalesRepsList subscript="1">
+<DistrictCode>Labor and Trust</DistrictCode>
+<EffectiveDate>2020-03-01T05:00:00.000Z</EffectiveDate>
+<FullName>Timothy McMullin</FullName>
+<SalesRepresentativeType>2</SalesRepresentativeType>
+</SalesRepsList>
+</pyWorkParty>
+<pyWorkParty subscript="Member">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1958-02-04</DateOfBirth>
+<EffectiveDate>2020-05-01</EffectiveDate>
+<FullName>AMICHAI A BUEHRER</FullName>
+<GenderCode>male</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<MemberPortalRegistrationIndicator>false</MemberPortalRegistrationIndicator>
+<pyFirstName>AMICHAI</pyFirstName>
+<pyLastName>BUEHRER</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Subscriber">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1958-02-04</DateOfBirth>
+<EffectiveDate>2020-05-01</EffectiveDate>
+<FullName>AMICHAI A BUEHRER</FullName>
+<GenderCode>male</GenderCode>
+<IndividualRelationshipCode>01</IndividualRelationshipCode>
+<pyFirstName>AMICHAI</pyFirstName>
+<pyLastName>BUEHRER</pyLastName>
+</pyWorkParty>
+<SearchEndDate>2022-03-19</SearchEndDate>
+<SearchStartDate>2016-09-17</SearchStartDate>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81602</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81603">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>007726</AssignedToOrgUnit>
+<AssignedToWorkGroup>COBProcessing2</AssignedToWorkGroup>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<DisclosureValue>Full, follow minimum necessary</DisclosureValue>
+<FinancialCostingType>Phone</FinancialCostingType>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<IsCallerAlsoAMember>true</IsCallerAlsoAMember>
+<IsCallerAlsoSubscriber>true</IsCallerAlsoSubscriber>
+<NewAssignee>vid9505</NewAssignee>
+<NewAssigneeName>Hemalatha Reddy</NewAssigneeName>
+<OrgUnitDescription>TechTeam1</OrgUnitDescription>
+<OriginalMember>
+<isVerifyDelegated>false</isVerifyDelegated>
+</OriginalMember>
+<OrigOrgUnitDescription>TechTeam1</OrigOrgUnitDescription>
+<Policies subscript="1">
+<ContractID>QMV1301229730010</ContractID>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+<LineOfBusiness>Medical</LineOfBusiness>
+<PolicyStatus>Active</PolicyStatus>
+<ProductCode>PPO</ProductCode>
+</Policies>
+<Policies subscript="2">
+<ContractID>QMV1301229730010</ContractID>
+<EffectiveDate>2019-11-01</EffectiveDate>
+<GroupName>Community Blue Medicare PPO Signature NEPA LIS 3</GroupName>
+<LineOfBusiness>Medical</LineOfBusiness>
+<PolicyStatus>Canceled</PolicyStatus>
+<ProductCode>PPO</ProductCode>
+<TermDate>2020-01-01</TermDate>
+</Policies>
+<Policy>
+<ContractDisplay>QMV1301229730010 - Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3 - 1/1/2020 - PPO - Medical</ContractDisplay>
+<ContractID>QMV1301229730010</ContractID>
+<CoverageLOBList subscript="1">
+<LOBCode>PPO</LOBCode>
+<LOBDescription>PREFERRED PROVIDER ORG</LOBDescription>
+<ProductName>Community Blue Medicare PPO</ProductName>
+</CoverageLOBList>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<Group>
+<ControlPlan>378</ControlPlan>
+<ControlPlanDescription>HIGHMARK BLUE SHIELD</ControlPlanDescription>
+<GroupIdentifier>08844938</GroupIdentifier>
+<GroupIndicator>08844938</GroupIndicator>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+<ServicingPlan>378</ServicingPlan>
+</Group>
+<InternalContractID>0217515600</InternalContractID>
+<Members subscript="1">
+<DateOfBirth>1956-07-12</DateOfBirth>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<FullName>JELLISA PTAH</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<IndividualRelationshipDescription>EMPLOYEE</IndividualRelationshipDescription>
+<MemberIndex>001</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>20 - EMPLOYEE</RelationshipCodeDesc>
+</Members>
+<PolicyType>IND</PolicyType>
+<PolicyTypeDesc>INDIVIDUAL</PolicyTypeDesc>
+<ProductCode>PPO</ProductCode>
+<SubscriberName>JELLISA  PTAH</SubscriberName>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T07:28:28.025Z</pxCreateDateTime>
+<pxCreateOperator>vid9505</pxCreateOperator>
+<pxCreateOpName>Hemalatha Reddy</pxCreateOpName>
+<pxUpdateDateTime>2021-09-17T17:28:28.544Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUpdateOrgUnit>007726</pxUpdateOrgUnit>
+<pxUrgencyWork>1</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81603</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>007726</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>COBProcessing2</pyOrigUserWorkgroup>
+<pySLADeadline>2021-09-17T17:28:28.068Z</pySLADeadline>
+<pySLAGoal>2021-09-17T12:28:28.068Z</pySLAGoal>
+<pyStatusWork>Open</pyStatusWork>
+
+<pyWorkParty subscript="Company">
+<ControlPlan>378</ControlPlan>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+</pyWorkParty>
+<pyWorkParty subscript="Contact">
+<FullName>JELLISA PTAH</FullName>
+<pyFirstName>JELLISA</pyFirstName>
+<pyLastName>PTAH</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Group">
+<BusinessRelationshipCode>388</BusinessRelationshipCode>
+<BusinessRelationshipCodeDescription>364 HIGHMARK SENIOR HEALTH COMPANY</BusinessRelationshipCodeDescription>
+<ControlPlan>378</ControlPlan>
+<CustomerServiceNumber>1-888-757-2946</CustomerServiceNumber>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<ERISAIndicator>false</ERISAIndicator>
+<GroupID>240452</GroupID>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+<GroupNumber>08844938</GroupNumber>
+<GroupStatus>100</GroupStatus>
+<MarketSegmentDescription>Direct Pay</MarketSegmentDescription>
+<ProductList subscript="1">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>VIS</LineOfBusinessCode>
+<ProductName>Davis Vision</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="2">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PDG</LineOfBusinessCode>
+<ProductName>Rx Drug - Community Blue Medicare PPO Alt LIS Plan 3</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="3">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PPO</LineOfBusinessCode>
+<ProductName>Community Blue Medicare PPO</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="4">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>DEN</LineOfBusinessCode>
+<ProductName>UCCI Dental</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<pyCompany>Community Blue Medicare PPO Signature NEPA</pyCompany>
+<SalesRepsList subscript="1">
+<DistrictCode>Senior Individual Markets</DistrictCode>
+<EffectiveDate>2020-01-01T05:00:00.000Z</EffectiveDate>
+<FullName>Direct Pay Over 65</FullName>
+<SalesRepresentativeType>1</SalesRepresentativeType>
+</SalesRepsList>
+<SalesRepsList subscript="2">
+<DistrictCode>Senior Individual Markets</DistrictCode>
+<EffectiveDate>2020-01-01T05:00:00.000Z</EffectiveDate>
+<FullName>Senior Individual Over65 ASM</FullName>
+<SalesRepresentativeType>2</SalesRepresentativeType>
+</SalesRepsList>
+</pyWorkParty>
+<pyWorkParty subscript="Member">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1956-07-12</DateOfBirth>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<FullName>JELLISA  PTAH</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<MemberPortalRegistrationIndicator>false</MemberPortalRegistrationIndicator>
+<pyFirstName>JELLISA</pyFirstName>
+<pyLastName>PTAH</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Subscriber">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1956-07-12</DateOfBirth>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<FullName>JELLISA  PTAH</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<pyFirstName>JELLISA</pyFirstName>
+<pyLastName>PTAH</pyLastName>
+</pyWorkParty>
+<SearchEndDate>2022-03-19</SearchEndDate>
+<SearchStartDate>2016-09-17</SearchStartDate>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81603</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81608">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>007726</AssignedToOrgUnit>
+<AssignedToWorkGroup>COBProcessing2</AssignedToWorkGroup>
+<ContactList subscript="1">
+<ContactName>SOMMER FLORETTA GUIVERA</ContactName>
+<FullName>SOMMER FLORETTA GUIVERA</FullName>
+<RelationshipTypeCode>01</RelationshipTypeCode>
+</ContactList>
+<ContactName>ERVIL GUIVERA</ContactName>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<DisclosureValue>Full, follow minimum necessary</DisclosureValue>
+<FinancialCostingType>Phone</FinancialCostingType>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<IsCallerAlsoAMember>true</IsCallerAlsoAMember>
+<IsCallerAlsoSubscriber>false</IsCallerAlsoSubscriber>
+<NewAssignee>vid9321</NewAssignee>
+<NewAssigneeName>Srilekha Ramanadhapuram</NewAssigneeName>
+<OrgUnitDescription>TechTeam1</OrgUnitDescription>
+<OriginalMember>
+<isVerifyDelegated>false</isVerifyDelegated>
+</OriginalMember>
+<OrigOrgUnitDescription>TechTeam1</OrigOrgUnitDescription>
+<Policies subscript="1">
+<ContractID>IFU1007205550010</ContractID>
+<EffectiveDate>2018-01-01</EffectiveDate>
+<GroupName>CPAHHIC my Direct Blue LehighValley EPO7000B ONXNBase</GroupName>
+<LineOfBusiness>Medical</LineOfBusiness>
+<PolicyStatus>Canceled</PolicyStatus>
+<ProductCode>PPO</ProductCode>
+<TermDate>2019-01-01</TermDate>
+</Policies>
+<Policies subscript="2">
+<ContractID>IFU1007205550010</ContractID>
+<EffectiveDate>2019-01-01</EffectiveDate>
+<GroupName>CPAHHIC my Direct Blue Lehigh Valley EPO Bronze 4000 ONXNBase</GroupName>
+<PolicyStatus>Canceled</PolicyStatus>
+<TermDate>2019-01-01</TermDate>
+</Policies>
+<Policy>
+<ContractDisplay>IFU1007205550010 - CPAHHIC my Direct Blue LehighValley EPO7000B ONXNBase - 1/1/2018 - 1/1/2019 - PPO - Medical</ContractDisplay>
+<ContractID>IFU1007205550010</ContractID>
+<CoverageLOBList subscript="1">
+<LOBCode>PPO</LOBCode>
+<LOBDescription>PREFERRED PROVIDER ORG</LOBDescription>
+<ProductName>my Direct Blue EPO 7000B med/surg</ProductName>
+</CoverageLOBList>
+<EffectiveDate>2018-01-01</EffectiveDate>
+<Group>
+<ControlPlan>378</ControlPlan>
+<ControlPlanDescription>HIGHMARK BLUE SHIELD</ControlPlanDescription>
+<GroupIdentifier>02541230</GroupIdentifier>
+<GroupIndicator>02541230</GroupIndicator>
+<GroupName>CPAHHIC my Direct Blue LehighValley EPO7000B ONXNBase</GroupName>
+<ServicingPlan>378</ServicingPlan>
+<ServicingPlanDescription>PENNSYLVANIA BLUE SHIELD - A HIGHMARK COMPANY</ServicingPlanDescription>
+</Group>
+<InternalContractID>9192753000</InternalContractID>
+<Members subscript="1">
+<AssociatedContacts subscript="1">
+<PersonID>151140589</PersonID>
+</AssociatedContacts>
+<AssociatedContacts subscript="2">
+<PersonID>151140589</PersonID>
+</AssociatedContacts>
+<DateOfBirth>1956-01-01</DateOfBirth>
+<EffectiveDate>2018-01-01</EffectiveDate>
+<EndDate>2019-01-01</EndDate>
+<FullName>ERVIL NOAN GUIVERA</FullName>
+<GenderCode>male</GenderCode>
+<IndividualRelationshipCode>18</IndividualRelationshipCode>
+<IndividualRelationshipDescription>SELF</IndividualRelationshipDescription>
+<LOIResponseDate>2022-01-05</LOIResponseDate>
+<MemberID>153125104</MemberID>
+<MemberIndex>001</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>18 - SELF</RelationshipCodeDesc>
+</Members>
+<Members subscript="2">
+<AssociatedContacts subscript="1">
+<PersonID>151140589</PersonID>
+</AssociatedContacts>
+<AssociatedContacts subscript="2">
+<PersonID>151140589</PersonID>
+</AssociatedContacts>
+<DateOfBirth>1956-01-01</DateOfBirth>
+<EffectiveDate>2019-01-01</EffectiveDate>
+<EndDate>2019-01-01</EndDate>
+<FullName>ERVIL NOAN GUIVERA</FullName>
+<GenderCode>male</GenderCode>
+<IndividualRelationshipCode>18</IndividualRelationshipCode>
+<IndividualRelationshipDescription>SELF</IndividualRelationshipDescription>
+<LOIResponseDate>2022-01-05</LOIResponseDate>
+<MemberID>153125104</MemberID>
+<MemberIndex>001</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>18 - SELF</RelationshipCodeDesc>
+</Members>
+<Members subscript="3">
+<AssociatedContacts subscript="1">
+<PersonID>153125104</PersonID>
+</AssociatedContacts>
+<AssociatedContacts subscript="2">
+<PersonID>153125104</PersonID>
+</AssociatedContacts>
+<DateOfBirth>1955-07-28</DateOfBirth>
+<EffectiveDate>2018-01-01</EffectiveDate>
+<EndDate>2019-01-01</EndDate>
+<FullName>SOMMER FLORETTA GUIVERA</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>01</IndividualRelationshipCode>
+<IndividualRelationshipDescription>SPOUSE</IndividualRelationshipDescription>
+<LOIResponseDate>2022-01-05</LOIResponseDate>
+<MemberID>151140589</MemberID>
+<MemberIndex>002</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>01 - SPOUSE</RelationshipCodeDesc>
+</Members>
+<Members subscript="4">
+<AssociatedContacts subscript="1">
+<PersonID>153125104</PersonID>
+</AssociatedContacts>
+<AssociatedContacts subscript="2">
+<PersonID>153125104</PersonID>
+</AssociatedContacts>
+<DateOfBirth>1955-07-28</DateOfBirth>
+<EffectiveDate>2019-01-01</EffectiveDate>
+<EndDate>2019-01-01</EndDate>
+<FullName>SOMMER FLORETTA GUIVERA</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>01</IndividualRelationshipCode>
+<IndividualRelationshipDescription>SPOUSE</IndividualRelationshipDescription>
+<LOIResponseDate>2022-01-05</LOIResponseDate>
+<MemberID>151140589</MemberID>
+<MemberIndex>002</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>01 - SPOUSE</RelationshipCodeDesc>
+</Members>
+<PaidToDate>2019-01-01</PaidToDate>
+<PolicyType>SSP</PolicyType>
+<PolicyTypeDesc>SUBSCRIBER AND SPOUSE</PolicyTypeDesc>
+<ProductCode>PPO</ProductCode>
+<SubscriberName>ERVIL NOAN GUIVERA</SubscriberName>
+<TermDate>2019-01-01</TermDate>
+<TerminationReason>TRANSFER (GROUP TO GROUP)</TerminationReason>
+<TerminationReasonDesc>TRANSFER (GROUP TO GROUP)</TerminationReasonDesc>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T08:14:47.466Z</pxCreateDateTime>
+<pxCreateOperator>vid9321</pxCreateOperator>
+<pxCreateOpName>Srilekha Ramanadhapuram</pxCreateOpName>
+<pxUpdateDateTime>2021-09-17T18:14:59.661Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUpdateOrgUnit>007726</pxUpdateOrgUnit>
+<pxUrgencyWork>1</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81608</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>007726</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>COBProcessing2</pyOrigUserWorkgroup>
+<pySLADeadline>2021-09-17T18:14:47.553Z</pySLADeadline>
+<pySLAGoal>2021-09-17T13:14:47.553Z</pySLAGoal>
+<pyStatusWork>Open</pyStatusWork>
+
+<pyWorkParty subscript="Company">
+<ControlPlan>378</ControlPlan>
+<GroupName>CPAHHIC my Direct Blue LehighValley EPO7000B ONXNBase</GroupName>
+</pyWorkParty>
+<pyWorkParty subscript="Contact">
+<FullName>ERVIL GUIVERA</FullName>
+<pyFirstName>ERVIL</pyFirstName>
+<pyLastName>GUIVERA</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Group">
+<BusinessRelationshipCode>778</BusinessRelationshipCode>
+<BusinessRelationshipCodeDescription>377 HHIC Central Region</BusinessRelationshipCodeDescription>
+<ControlPlan>378</ControlPlan>
+<EffectiveDate>2018-01-01</EffectiveDate>
+<EndDate>2019-12-31</EndDate>
+<ERISAIndicator>false</ERISAIndicator>
+<GroupID>239843</GroupID>
+<GroupName>CPAHHIC my Direct Blue LehighValley EPO7000B ONXNBase</GroupName>
+<GroupNumber>02541230</GroupNumber>
+<GroupStatus>100</GroupStatus>
+<MarketSegmentDescription>Direct Pay</MarketSegmentDescription>
+<ProductList subscript="1">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>DEN</LineOfBusinessCode>
+<ProductName>Dental Flex Low Plan CPA</ProductName>
+<ProductType>H4</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="2">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>VIS</LineOfBusinessCode>
+<ProductName>Fashion Advantage - CPA</ProductName>
+<ProductType>H4</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="3">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PDG</LineOfBusinessCode>
+<ProductName>Rx Drug - EPO</ProductName>
+<ProductType>H4</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="4">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PPO</LineOfBusinessCode>
+<ProductName>my Direct Blue EPO 7000B med/surg</ProductName>
+<ProductType>H4</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="5">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>AG</LineOfBusinessCode>
+<ProductName>Service - myCare Navigator - DP</ProductName>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<pyCompany>CPAHHIC my Direct Blue LehighValley EPO</pyCompany>
+<SalesRepsList subscript="1">
+<DistrictCode>Individual</DistrictCode>
+<EffectiveDate>2018-01-01T05:00:00.000Z</EffectiveDate>
+<FullName>Direct Pay Under 65</FullName>
+<SalesRepresentativeType>1</SalesRepresentativeType>
+</SalesRepsList>
+</pyWorkParty>
+<pyWorkParty subscript="Member">
+<BusinessPartnerIdentificationCode>1</BusinessPartnerIdentificationCode>
+<DateOfBirth>1956-01-01</DateOfBirth>
+<EffectiveDate>2018-01-01</EffectiveDate>
+<FullName>ERVIL NOAN GUIVERA</FullName>
+<GenderCode>male</GenderCode>
+<IndividualRelationshipCode>18</IndividualRelationshipCode>
+<MemberID>153125104</MemberID>
+<MemberPortalRegistrationIndicator>false</MemberPortalRegistrationIndicator>
+<pyFirstName>ERVIL</pyFirstName>
+<pyLastName>GUIVERA</pyLastName>
+</pyWorkParty>
+<SearchEndDate>2022-03-19</SearchEndDate>
+<SearchStartDate>2016-09-17</SearchStartDate>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81608</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81611">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>007726</AssignedToOrgUnit>
+<AssignedToWorkGroup>COBProcessing2</AssignedToWorkGroup>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<FinancialCostingType>Phone</FinancialCostingType>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<NewAssignee>vid9321</NewAssignee>
+<NewAssigneeName>Srilekha Ramanadhapuram</NewAssigneeName>
+<OrgUnitDescription>TechTeam1</OrgUnitDescription>
+<OriginalMember>
+</OriginalMember>
+<OrigOrgUnitDescription>TechTeam1</OrigOrgUnitDescription>
+<Policy>
+<Group>
+</Group>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T11:04:10.904Z</pxCreateDateTime>
+<pxCreateOperator>vid9321</pxCreateOperator>
+<pxCreateOpName>Srilekha Ramanadhapuram</pxCreateOpName>
+<pxUpdateDateTime>2021-09-17T21:04:33.166Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUpdateOrgUnit>007726</pxUpdateOrgUnit>
+<pxUrgencyWork>1</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81611</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>007726</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>COBProcessing2</pyOrigUserWorkgroup>
+<pySLADeadline>2021-09-17T21:04:10.923Z</pySLADeadline>
+<pySLAGoal>2021-09-17T16:04:10.922Z</pySLAGoal>
+<pyStatusWork>Open</pyStatusWork>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81611</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81612">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>007726</AssignedToOrgUnit>
+<AssignedToWorkGroup>Default@HMK</AssignedToWorkGroup>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<FinancialCostingType>Phone</FinancialCostingType>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<NewAssignee>vid9219</NewAssignee>
+<NewAssigneeName>Sudipto Banerjee</NewAssigneeName>
+<OrgUnitDescription>TechTeam1</OrgUnitDescription>
+<OriginalMember>
+</OriginalMember>
+<OrigOrgUnitDescription>TechTeam1</OrigOrgUnitDescription>
+<Policy>
+<Group>
+</Group>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T15:08:48.549Z</pxCreateDateTime>
+<pxCreateOperator>vid9219</pxCreateOperator>
+<pxCreateOpName>Sudipto Banerjee</pxCreateOpName>
+<pxUpdateDateTime>2021-09-18T01:08:51.469Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUpdateOrgUnit>007726</pxUpdateOrgUnit>
+<pxUrgencyWork>1</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81612</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>007726</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>Default@HMK</pyOrigUserWorkgroup>
+<pySLADeadline>2021-09-18T01:08:49.113Z</pySLADeadline>
+<pySLAGoal>2021-09-17T20:08:49.113Z</pySLAGoal>
+<pyStatusWork>Open</pyStatusWork>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81612</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81613">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>007726</AssignedToOrgUnit>
+<AssignedToWorkGroup>Default@HMK</AssignedToWorkGroup>
+<ContactList subscript="1">
+<ContactName>ERVIL MONOKIAN</ContactName>
+<FullName>ERVIL MONOKIAN</FullName>
+<RelationshipTypeCode>J6</RelationshipTypeCode>
+</ContactList>
+<ContactName>ADELMIRA MONOKIAN</ContactName>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<DisclosureValue>Full, follow minimum necessary</DisclosureValue>
+<FinancialCostingType>Phone</FinancialCostingType>
+<GroupIndicatorList subscript="1">
+<CategoryCode>R</CategoryCode>
+<Desc>Retiree</Desc>
+</GroupIndicatorList>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<IsCallerAlsoAMember>true</IsCallerAlsoAMember>
+<IsCallerAlsoSubscriber>false</IsCallerAlsoSubscriber>
+<NewAssignee>vid9267</NewAssignee>
+<NewAssigneeName>Meenal Jain</NewAssigneeName>
+<OrgUnitDescription>TechTeam1</OrgUnitDescription>
+<OriginalMember>
+<isVerifyDelegated>false</isVerifyDelegated>
+</OriginalMember>
+<OrigOrgUnitDescription>TechTeam1</OrigOrgUnitDescription>
+<Policies subscript="1">
+<ContractID>ZAL107128353001B</ContractID>
+<EffectiveDate>2002-07-01</EffectiveDate>
+<GroupName>State System of Higher Education Faculty Retired 7/1/85 - 6/30/88 Over 65</GroupName>
+<LineOfBusiness>Medical,Medical,Medical</LineOfBusiness>
+<PolicyStatus>Active</PolicyStatus>
+<ProductCode>FA,MM,PR</ProductCode>
+</Policies>
+<Policy>
+<ContractDisplay>ZAL107128353001B - State System of Higher Education Faculty Retired 7/1/85 - 6/30/88 Over 65 - 7/1/2002 - FA,MM,PR - Medical,Medical,Medical</ContractDisplay>
+<ContractID>ZAL107128353001B</ContractID>
+<CoverageLOBList subscript="1">
+<LOBCode>FA</LOBCode>
+<LOBDescription>FACILITY</LOBDescription>
+<ProductName>Signature 65 - Facility</ProductName>
+</CoverageLOBList>
+<CoverageLOBList subscript="2">
+<LOBCode>MM</LOBCode>
+<LOBDescription>MAJOR MEDICAL</LOBDescription>
+<ProductName>Signature 65 - Major Medical</ProductName>
+</CoverageLOBList>
+<CoverageLOBList subscript="3">
+<LOBCode>PR</LOBCode>
+<LOBDescription>PROFESSIONAL</LOBDescription>
+<ProductName>Signature 65 - Professional</ProductName>
+</CoverageLOBList>
+<EffectiveDate>2002-07-01</EffectiveDate>
+<Group>
+<ControlPlan>378</ControlPlan>
+<ControlPlanDescription>HIGHMARK BLUE SHIELD</ControlPlanDescription>
+<GroupIdentifier>06422201</GroupIdentifier>
+<GroupIndicator>06422201</GroupIndicator>
+<GroupName>State System of Higher Education Faculty Retired 7/1/85 - 6/30/88 Over 65</GroupName>
+<ServicingPlan>378</ServicingPlan>
+</Group>
+<InternalContractID>771817571B</InternalContractID>
+<Members subscript="1">
+<AssociatedContacts subscript="1">
+<PersonID>885990110</PersonID>
+</AssociatedContacts>
+<DateOfBirth>1929-03-13</DateOfBirth>
+<EffectiveDate>2002-07-01</EffectiveDate>
+<FullName>ADELMIRA B MONOKIAN</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<IndividualRelationshipDescription>EMPLOYEE</IndividualRelationshipDescription>
+<MemberID>885990110</MemberID>
+<MemberIndex>001</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>true</OtherCoverageIndicator>
+<RelationshipCodeDesc>20 - EMPLOYEE</RelationshipCodeDesc>
+</Members>
+<PolicyType>IND</PolicyType>
+<PolicyTypeDesc>INDIVIDUAL</PolicyTypeDesc>
+<ProductCode>FA,MM,PR</ProductCode>
+<SubscriberName>ADELMIRA B MONOKIAN</SubscriberName>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T15:15:42.784Z</pxCreateDateTime>
+<pxCreateOperator>vid9267</pxCreateOperator>
+<pxCreateOpName>Meenal Jain</pxCreateOpName>
+<pxUpdateDateTime>2021-09-18T01:15:46.703Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUpdateOrgUnit>007726</pxUpdateOrgUnit>
+<pxUrgencyWork>1</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81613</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>007726</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>Default@HMK</pyOrigUserWorkgroup>
+<pySLADeadline>2021-09-18T01:15:42.802Z</pySLADeadline>
+<pySLAGoal>2021-09-17T20:15:42.802Z</pySLAGoal>
+<pyStatusWork>Open</pyStatusWork>
+
+<pyWorkParty subscript="Company">
+<ControlPlan>378</ControlPlan>
+<GroupName>State System of Higher Education Faculty Retired 7/1/85 - 6/30/88 Over 65</GroupName>
+</pyWorkParty>
+<pyWorkParty subscript="Contact">
+<FullName>ADELMIRA MONOKIAN</FullName>
+<pyFirstName>ADELMIRA</pyFirstName>
+<pyLastName>MONOKIAN</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Group">
+<BusinessRelationshipCode>378</BusinessRelationshipCode>
+<BusinessRelationshipCodeDescription>378 Highmark Blue Shield</BusinessRelationshipCodeDescription>
+<ControlPlan>378</ControlPlan>
+<EffectiveDate>2011-10-01</EffectiveDate>
+<ERISAIndicator>false</ERISAIndicator>
+<GroupID>010390</GroupID>
+<GroupName>State System of Higher Education Faculty Retired 7/1/85 - 6/30/88 Over 65</GroupName>
+<GroupNumber>06422201</GroupNumber>
+<GroupStatus>100</GroupStatus>
+<MarketSegmentDescription>Local</MarketSegmentDescription>
+<ProductList subscript="1">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PR</LineOfBusinessCode>
+<ProductName>Signature 65 - Professional</ProductName>
+<ProductType>F</ProductType>
+<RatingCode>14</RatingCode>
+<SelfInsured>Yes</SelfInsured>
+</ProductList>
+<ProductList subscript="2">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>MM</LineOfBusinessCode>
+<ProductName>Signature 65 - Major Medical</ProductName>
+<ProductType>F</ProductType>
+<RatingCode>14</RatingCode>
+<SelfInsured>Yes</SelfInsured>
+</ProductList>
+<ProductList subscript="3">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PDG</LineOfBusinessCode>
+<ProductName>Rx Drug - Classic Blue - Discount Rx</ProductName>
+<ProductType>F</ProductType>
+<RatingCode>14</RatingCode>
+<SelfInsured>Yes</SelfInsured>
+</ProductList>
+<ProductList subscript="4">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>FA</LineOfBusinessCode>
+<ProductName>Signature 65 - Facility</ProductName>
+<ProductType>F</ProductType>
+<RatingCode>14</RatingCode>
+<SelfInsured>Yes</SelfInsured>
+</ProductList>
+<pyCompany>State System of Higher Education</pyCompany>
+<SalesRepsList subscript="1">
+<DistrictCode>CR Strategic Accounts</DistrictCode>
+<EffectiveDate>2015-05-01T04:00:00.000Z</EffectiveDate>
+<FullName>Travis Starling - Dist28 Strat Accts</FullName>
+<SalesRepresentativeType>1</SalesRepresentativeType>
+</SalesRepsList>
+<SalesRepsList subscript="2">
+<DistrictCode>CR Strategic Accounts</DistrictCode>
+<EffectiveDate>2015-05-01T04:00:00.000Z</EffectiveDate>
+<FullName>Lorraine Ostrowski</FullName>
+<SalesRepresentativeType>2</SalesRepresentativeType>
+</SalesRepsList>
+</pyWorkParty>
+<pyWorkParty subscript="Member">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1929-03-13</DateOfBirth>
+<EffectiveDate>2002-07-01</EffectiveDate>
+<FullName>ADELMIRA B MONOKIAN</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<MemberID>885990110</MemberID>
+<MemberPortalRegistrationIndicator>false</MemberPortalRegistrationIndicator>
+<pyFirstName>ADELMIRA</pyFirstName>
+<pyLastName>MONOKIAN</pyLastName>
+</pyWorkParty>
+<SearchEndDate>2022-03-19</SearchEndDate>
+<SearchStartDate>2016-09-17</SearchStartDate>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81613</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81614">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>007726</AssignedToOrgUnit>
+<AssignedToWorkGroup>MemberExperience5</AssignedToWorkGroup>
+<ContactName>QUENCY AVARALI</ContactName>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<DisclosureValue>Full, follow minimum necessary</DisclosureValue>
+<FinancialCostingType>Phone</FinancialCostingType>
+<GroupIndicatorList subscript="1">
+<CategoryCode>D</CategoryCode>
+<Desc>Dedicated</Desc>
+</GroupIndicatorList>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<IsCallerAlsoAMember>true</IsCallerAlsoAMember>
+<IsCallerAlsoSubscriber>false</IsCallerAlsoSubscriber>
+<NewAssignee>vid9269</NewAssignee>
+<NewAssigneeName>Rajesh Kusuma</NewAssigneeName>
+<OrgUnitDescription>TechTeam1</OrgUnitDescription>
+<OriginalMember>
+<isVerifyDelegated>false</isVerifyDelegated>
+</OriginalMember>
+<OrigOrgUnitDescription>TechTeam1</OrigOrgUnitDescription>
+<Policies subscript="1">
+<ContractID>KEQ1301551620010</ContractID>
+<EffectiveDate>2020-10-18</EffectiveDate>
+<GroupName>Keystone Foods, LLC Camilla Hourly</GroupName>
+<LineOfBusiness>Medical</LineOfBusiness>
+<PolicyStatus>Active</PolicyStatus>
+<ProductCode>PPO</ProductCode>
+</Policies>
+<Policy>
+<ContractDisplay>KEQ1301551620010 - Keystone Foods, LLC Camilla Hourly - 10/18/2020 - PPO - Medical</ContractDisplay>
+<ContractID>KEQ1301551620010</ContractID>
+<CoverageLOBList subscript="1">
+<LOBCode>PPO</LOBCode>
+<LOBDescription>PREFERRED PROVIDER ORG</LOBDescription>
+<ProductName>Blue Card PPO Med/Surg</ProductName>
+</CoverageLOBList>
+<EffectiveDate>2020-10-18</EffectiveDate>
+<Group>
+<ControlPlan>363</ControlPlan>
+<ControlPlanDescription>HIGHMARK BLUE CROSS BLUE SHIELD</ControlPlanDescription>
+<GroupIdentifier>01669722</GroupIdentifier>
+<GroupIndicator>01669722</GroupIndicator>
+<GroupName>Keystone Foods, LLC Camilla Hourly</GroupName>
+<ServicingPlan>363</ServicingPlan>
+<ServicingPlanDescription>HIGHMARK BLUE CROSS BLUE SHIELD</ServicingPlanDescription>
+</Group>
+<InternalContractID>3837633480</InternalContractID>
+<Members subscript="1">
+<DateOfBirth>1984-07-21</DateOfBirth>
+<EffectiveDate>2020-10-18</EffectiveDate>
+<FullName>QUENCY ALANMICHAEL AVARALI</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<IndividualRelationshipDescription>EMPLOYEE</IndividualRelationshipDescription>
+<MemberID>383837973</MemberID>
+<MemberIndex>001</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>20 - EMPLOYEE</RelationshipCodeDesc>
+</Members>
+<PolicyType>IND</PolicyType>
+<PolicyTypeDesc>INDIVIDUAL</PolicyTypeDesc>
+<ProductCode>PPO</ProductCode>
+<SubscriberName>QUENCY ALANMICHAEL AVARALI</SubscriberName>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T15:17:44.803Z</pxCreateDateTime>
+<pxCreateOperator>vid9269</pxCreateOperator>
+<pxCreateOpName>Rajesh Kusuma</pxCreateOpName>
+<pxUpdateDateTime>2021-09-18T01:17:46.857Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUpdateOrgUnit>007726</pxUpdateOrgUnit>
+<pxUrgencyWork>1</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81614</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>007726</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>MemberExperience5</pyOrigUserWorkgroup>
+<pySLADeadline>2021-09-18T01:17:44.850Z</pySLADeadline>
+<pySLAGoal>2021-09-17T20:17:44.850Z</pySLAGoal>
+<pyStatusWork>Open</pyStatusWork>
+
+<pyWorkParty subscript="Company">
+<ControlPlan>363</ControlPlan>
+<GroupName>Keystone Foods, LLC Camilla Hourly</GroupName>
+</pyWorkParty>
+<pyWorkParty subscript="Contact">
+<FullName>QUENCY AVARALI</FullName>
+<pyFirstName>QUENCY</pyFirstName>
+<pyLastName>AVARALI</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Group">
+<BusinessRelationshipCode>862</BusinessRelationshipCode>
+<BusinessRelationshipCodeDescription>862 IBC Plan Partnership</BusinessRelationshipCodeDescription>
+<ControlPlan>363</ControlPlan>
+<CustomerServiceNumber>1-800-401-1989</CustomerServiceNumber>
+<EffectiveDate>2016-03-01</EffectiveDate>
+<ERISAIndicator>true</ERISAIndicator>
+<GroupID>167629</GroupID>
+<GroupName>Keystone Foods, LLC Camilla Hourly</GroupName>
+<GroupNumber>01669722</GroupNumber>
+<GroupStatus>100</GroupStatus>
+<MarketSegmentDescription>National - Control Plan</MarketSegmentDescription>
+<ProductList subscript="1">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PPO</LineOfBusinessCode>
+<ProductName>Blue Card PPO Med/Surg</ProductName>
+<ProductType>H3</ProductType>
+<RatingCode>27</RatingCode>
+<SelfInsured>Yes</SelfInsured>
+</ProductList>
+<ProductList subscript="2">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>AG</LineOfBusinessCode>
+<ProductName>Service - Well360 CORE - SF</ProductName>
+<RatingCode>27</RatingCode>
+<SelfInsured>Yes</SelfInsured>
+</ProductList>
+<pyCompany>Keystone Foods LLC</pyCompany>
+<SalesRepsList subscript="1">
+<DistrictCode>National Markets-Central Region</DistrictCode>
+<EffectiveDate>2017-07-01T04:00:00.000Z</EffectiveDate>
+<FullName>Jason Campbell</FullName>
+<SalesRepresentativeType>1</SalesRepresentativeType>
+</SalesRepsList>
+<SalesRepsList subscript="2">
+<DistrictCode>National Client Service</DistrictCode>
+<EffectiveDate>2016-03-01T05:00:00.000Z</EffectiveDate>
+<FullName>Michael Gallant</FullName>
+<SalesRepresentativeType>2</SalesRepresentativeType>
+</SalesRepsList>
+</pyWorkParty>
+<pyWorkParty subscript="Member">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1984-07-21</DateOfBirth>
+<EffectiveDate>2020-10-18</EffectiveDate>
+<FullName>QUENCY ALANMICHAEL AVARALI</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<MemberID>383837973</MemberID>
+<MemberPortalRegistrationIndicator>false</MemberPortalRegistrationIndicator>
+<pyFirstName>QUENCY</pyFirstName>
+<pyLastName>AVARALI</pyLastName>
+</pyWorkParty>
+<SearchEndDate>2022-03-19</SearchEndDate>
+<SearchStartDate>2016-09-17</SearchStartDate>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81614</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81615">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>000000</AssignedToOrgUnit>
+<AssignedToWorkGroup>Default@HMK</AssignedToWorkGroup>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<DisclosureValue>Full, follow minimum necessary</DisclosureValue>
+<FinancialCostingType>Phone</FinancialCostingType>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<IsCallerAlsoAMember>true</IsCallerAlsoAMember>
+<IsCallerAlsoSubscriber>true</IsCallerAlsoSubscriber>
+<NewAssignee>LIDDF57</NewAssignee>
+<NewAssigneeName>Courtney A Grenner</NewAssigneeName>
+<OrgUnitDescription>Default</OrgUnitDescription>
+<OriginalMember>
+<isVerifyDelegated>false</isVerifyDelegated>
+</OriginalMember>
+<OrigOrgUnitDescription>Default</OrigOrgUnitDescription>
+<Policies subscript="1">
+<ContractID>QMV1301229730010</ContractID>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+<LineOfBusiness>Medical</LineOfBusiness>
+<PolicyStatus>Active</PolicyStatus>
+<ProductCode>PPO</ProductCode>
+</Policies>
+<Policies subscript="2">
+<ContractID>QMV1301229730010</ContractID>
+<EffectiveDate>2019-11-01</EffectiveDate>
+<GroupName>Community Blue Medicare PPO Signature NEPA LIS 3</GroupName>
+<LineOfBusiness>Medical</LineOfBusiness>
+<PolicyStatus>Canceled</PolicyStatus>
+<ProductCode>PPO</ProductCode>
+<TermDate>2020-01-01</TermDate>
+</Policies>
+<Policy>
+<ContractDisplay>QMV1301229730010 - Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3 - 1/1/2020 - PPO - Medical</ContractDisplay>
+<ContractID>QMV1301229730010</ContractID>
+<CoverageLOBList subscript="1">
+<LOBCode>PPO</LOBCode>
+<LOBDescription>PREFERRED PROVIDER ORG</LOBDescription>
+<ProductName>Community Blue Medicare PPO</ProductName>
+</CoverageLOBList>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<Group>
+<ControlPlan>378</ControlPlan>
+<ControlPlanDescription>HIGHMARK BLUE SHIELD</ControlPlanDescription>
+<GroupIdentifier>08844938</GroupIdentifier>
+<GroupIndicator>08844938</GroupIndicator>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+<ServicingPlan>378</ServicingPlan>
+</Group>
+<InternalContractID>0217515600</InternalContractID>
+<Members subscript="1">
+<DateOfBirth>1956-07-12</DateOfBirth>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<FullName>JELLISA PTAH</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<IndividualRelationshipDescription>EMPLOYEE</IndividualRelationshipDescription>
+<MemberIndex>001</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>20 - EMPLOYEE</RelationshipCodeDesc>
+</Members>
+<PolicyType>IND</PolicyType>
+<PolicyTypeDesc>INDIVIDUAL</PolicyTypeDesc>
+<ProductCode>PPO</ProductCode>
+<SubscriberName>JELLISA  PTAH</SubscriberName>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T15:26:21.850Z</pxCreateDateTime>
+<pxCreateOperator>LIDDF57</pxCreateOperator>
+<pxCreateOpName>Courtney A Grenner</pxCreateOpName>
+<pxUpdateDateTime>2021-09-17T15:36:33.648Z</pxUpdateDateTime>
+<pxUpdateOperator>LIDDF57</pxUpdateOperator>
+<pxUpdateOpName>Courtney A Grenner</pxUpdateOpName>
+<pxUpdateOrgUnit>000000</pxUpdateOrgUnit>
+<pxUrgencyWork>3</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81615</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>000000</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>Default@HMK</pyOrigUserWorkgroup>
+<pyResolvedOrgUnit>000000</pyResolvedOrgUnit>
+<pyResolvedTimestamp>2021-09-17T15:36:33.606Z</pyResolvedTimestamp>
+<pyResolvedUserID>LIDDF57</pyResolvedUserID>
+<pyResolvedUserWorkgroup>Default@HMK</pyResolvedUserWorkgroup>
+<pySLADeadline>2021-09-18T01:26:21.866Z</pySLADeadline>
+<pySLAGoal>2021-09-17T20:26:21.866Z</pySLAGoal>
+<pyStatusWork>Resolved-Completed</pyStatusWork>
+
+<pyWorkParty subscript="Company">
+<ControlPlan>378</ControlPlan>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+</pyWorkParty>
+<pyWorkParty subscript="Contact">
+<FullName>JELLISA PTAH</FullName>
+<pyFirstName>JELLISA</pyFirstName>
+<pyLastName>PTAH</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Group">
+<BusinessRelationshipCode>388</BusinessRelationshipCode>
+<BusinessRelationshipCodeDescription>364 HIGHMARK SENIOR HEALTH COMPANY</BusinessRelationshipCodeDescription>
+<ControlPlan>378</ControlPlan>
+<CustomerServiceNumber>1-888-757-2946</CustomerServiceNumber>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<ERISAIndicator>false</ERISAIndicator>
+<GroupID>240452</GroupID>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+<GroupNumber>08844938</GroupNumber>
+<GroupStatus>100</GroupStatus>
+<MarketSegmentDescription>Direct Pay</MarketSegmentDescription>
+<ProductList subscript="1">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>VIS</LineOfBusinessCode>
+<ProductName>Davis Vision</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="2">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PDG</LineOfBusinessCode>
+<ProductName>Rx Drug - Community Blue Medicare PPO Alt LIS Plan 3</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="3">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PPO</LineOfBusinessCode>
+<ProductName>Community Blue Medicare PPO</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="4">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>DEN</LineOfBusinessCode>
+<ProductName>UCCI Dental</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<pyCompany>Community Blue Medicare PPO Signature NEPA</pyCompany>
+<SalesRepsList subscript="1">
+<DistrictCode>Senior Individual Markets</DistrictCode>
+<EffectiveDate>2020-01-01T05:00:00.000Z</EffectiveDate>
+<FullName>Direct Pay Over 65</FullName>
+<SalesRepresentativeType>1</SalesRepresentativeType>
+</SalesRepsList>
+<SalesRepsList subscript="2">
+<DistrictCode>Senior Individual Markets</DistrictCode>
+<EffectiveDate>2020-01-01T05:00:00.000Z</EffectiveDate>
+<FullName>Senior Individual Over65 ASM</FullName>
+<SalesRepresentativeType>2</SalesRepresentativeType>
+</SalesRepsList>
+</pyWorkParty>
+<pyWorkParty subscript="Member">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1956-07-12</DateOfBirth>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<FullName>JELLISA  PTAH</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<MemberPortalRegistrationIndicator>false</MemberPortalRegistrationIndicator>
+<pyFirstName>JELLISA</pyFirstName>
+<pyLastName>PTAH</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Subscriber">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1956-07-12</DateOfBirth>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<FullName>JELLISA  PTAH</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<pyFirstName>JELLISA</pyFirstName>
+<pyLastName>PTAH</pyLastName>
+</pyWorkParty>
+<ReasonForInteraction>Manage Claims</ReasonForInteraction>
+<ResolvedOrgUnitDescription>Default</ResolvedOrgUnitDescription>
+<ResolveOpName>Courtney A Grenner</ResolveOpName>
+<SearchEndDate>2022-03-19</SearchEndDate>
+<SearchStartDate>2016-09-17</SearchStartDate>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81615</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81616">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>000000</AssignedToOrgUnit>
+<AssignedToWorkGroup>Default@HMK</AssignedToWorkGroup>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<DisclosureValue>Full, follow minimum necessary</DisclosureValue>
+<FinancialCostingType>Phone</FinancialCostingType>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<IsCallerAlsoAMember>true</IsCallerAlsoAMember>
+<IsCallerAlsoSubscriber>true</IsCallerAlsoSubscriber>
+<NewAssignee>LIDDF57</NewAssignee>
+<NewAssigneeName>Courtney A Grenner</NewAssigneeName>
+<OrgUnitDescription>Default</OrgUnitDescription>
+<OriginalMember>
+<isVerifyDelegated>false</isVerifyDelegated>
+</OriginalMember>
+<OrigOrgUnitDescription>Default</OrigOrgUnitDescription>
+<Policies subscript="1">
+<ContractID>QMV1301229730010</ContractID>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+<LineOfBusiness>Medical</LineOfBusiness>
+<PolicyStatus>Active</PolicyStatus>
+<ProductCode>PPO</ProductCode>
+</Policies>
+<Policies subscript="2">
+<ContractID>QMV1301229730010</ContractID>
+<EffectiveDate>2019-11-01</EffectiveDate>
+<GroupName>Community Blue Medicare PPO Signature NEPA LIS 3</GroupName>
+<LineOfBusiness>Medical</LineOfBusiness>
+<PolicyStatus>Canceled</PolicyStatus>
+<ProductCode>PPO</ProductCode>
+<TermDate>2020-01-01</TermDate>
+</Policies>
+<Policy>
+<ContractDisplay>QMV1301229730010 - Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3 - 1/1/2020 - PPO - Medical</ContractDisplay>
+<ContractID>QMV1301229730010</ContractID>
+<CoverageLOBList subscript="1">
+<LOBCode>PPO</LOBCode>
+<LOBDescription>PREFERRED PROVIDER ORG</LOBDescription>
+<ProductName>Community Blue Medicare PPO</ProductName>
+</CoverageLOBList>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<Group>
+<ControlPlan>378</ControlPlan>
+<ControlPlanDescription>HIGHMARK BLUE SHIELD</ControlPlanDescription>
+<GroupIdentifier>08844938</GroupIdentifier>
+<GroupIndicator>08844938</GroupIndicator>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+<ServicingPlan>378</ServicingPlan>
+</Group>
+<InternalContractID>0217515600</InternalContractID>
+<Members subscript="1">
+<DateOfBirth>1956-07-12</DateOfBirth>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<FullName>JELLISA PTAH</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<IndividualRelationshipDescription>EMPLOYEE</IndividualRelationshipDescription>
+<MemberIndex>001</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>20 - EMPLOYEE</RelationshipCodeDesc>
+</Members>
+<PolicyType>IND</PolicyType>
+<PolicyTypeDesc>INDIVIDUAL</PolicyTypeDesc>
+<ProductCode>PPO</ProductCode>
+<SubscriberName>JELLISA  PTAH</SubscriberName>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T15:37:15.173Z</pxCreateDateTime>
+<pxCreateOperator>LIDDF57</pxCreateOperator>
+<pxCreateOpName>Courtney A Grenner</pxCreateOpName>
+<pxUpdateDateTime>2021-09-17T15:39:24.309Z</pxUpdateDateTime>
+<pxUpdateOperator>LIDDF57</pxUpdateOperator>
+<pxUpdateOpName>Courtney A Grenner</pxUpdateOpName>
+<pxUpdateOrgUnit>000000</pxUpdateOrgUnit>
+<pxUrgencyWork>3</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81616</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>000000</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>Default@HMK</pyOrigUserWorkgroup>
+<pyResolvedOrgUnit>000000</pyResolvedOrgUnit>
+<pyResolvedTimestamp>2021-09-17T15:39:24.271Z</pyResolvedTimestamp>
+<pyResolvedUserID>LIDDF57</pyResolvedUserID>
+<pyResolvedUserWorkgroup>Default@HMK</pyResolvedUserWorkgroup>
+<pySLADeadline>2021-09-18T01:37:15.204Z</pySLADeadline>
+<pySLAGoal>2021-09-17T20:37:15.204Z</pySLAGoal>
+<pyStatusWork>Resolved-Completed</pyStatusWork>
+
+<pyWorkParty subscript="Company">
+<ControlPlan>378</ControlPlan>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+</pyWorkParty>
+<pyWorkParty subscript="Contact">
+<FullName>JELLISA PTAH</FullName>
+<pyFirstName>JELLISA</pyFirstName>
+<pyLastName>PTAH</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Group">
+<BusinessRelationshipCode>388</BusinessRelationshipCode>
+<BusinessRelationshipCodeDescription>364 HIGHMARK SENIOR HEALTH COMPANY</BusinessRelationshipCodeDescription>
+<ControlPlan>378</ControlPlan>
+<CustomerServiceNumber>1-888-757-2946</CustomerServiceNumber>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<ERISAIndicator>false</ERISAIndicator>
+<GroupID>240452</GroupID>
+<GroupName>Community Blue Medicare PPO Distinct MAPD NEPA NE LIS 3</GroupName>
+<GroupNumber>08844938</GroupNumber>
+<GroupStatus>100</GroupStatus>
+<MarketSegmentDescription>Direct Pay</MarketSegmentDescription>
+<ProductList subscript="1">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>VIS</LineOfBusinessCode>
+<ProductName>Davis Vision</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="2">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PDG</LineOfBusinessCode>
+<ProductName>Rx Drug - Community Blue Medicare PPO Alt LIS Plan 3</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="3">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PPO</LineOfBusinessCode>
+<ProductName>Community Blue Medicare PPO</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="4">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>DEN</LineOfBusinessCode>
+<ProductName>UCCI Dental</ProductName>
+<ProductType>SW</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<pyCompany>Community Blue Medicare PPO Signature NEPA</pyCompany>
+<SalesRepsList subscript="1">
+<DistrictCode>Senior Individual Markets</DistrictCode>
+<EffectiveDate>2020-01-01T05:00:00.000Z</EffectiveDate>
+<FullName>Direct Pay Over 65</FullName>
+<SalesRepresentativeType>1</SalesRepresentativeType>
+</SalesRepsList>
+<SalesRepsList subscript="2">
+<DistrictCode>Senior Individual Markets</DistrictCode>
+<EffectiveDate>2020-01-01T05:00:00.000Z</EffectiveDate>
+<FullName>Senior Individual Over65 ASM</FullName>
+<SalesRepresentativeType>2</SalesRepresentativeType>
+</SalesRepsList>
+</pyWorkParty>
+<pyWorkParty subscript="Member">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1956-07-12</DateOfBirth>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<FullName>JELLISA  PTAH</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<MemberPortalRegistrationIndicator>false</MemberPortalRegistrationIndicator>
+<pyFirstName>JELLISA</pyFirstName>
+<pyLastName>PTAH</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Subscriber">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1956-07-12</DateOfBirth>
+<EffectiveDate>2020-01-01</EffectiveDate>
+<FullName>JELLISA  PTAH</FullName>
+<GenderCode>female</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<pyFirstName>JELLISA</pyFirstName>
+<pyLastName>PTAH</pyLastName>
+</pyWorkParty>
+<ReasonForInteraction>Eligibility</ReasonForInteraction>
+<ResolvedOrgUnitDescription>Default</ResolvedOrgUnitDescription>
+<ResolveOpName>Courtney A Grenner</ResolveOpName>
+<SearchEndDate>2022-03-19</SearchEndDate>
+<SearchStartDate>2016-09-17</SearchStartDate>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81616</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81617">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>007726</AssignedToOrgUnit>
+<AssignedToWorkGroup>Default@HMK</AssignedToWorkGroup>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<FinancialCostingType>Phone</FinancialCostingType>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<IsCallerAlsoAMember>true</IsCallerAlsoAMember>
+<NewAssignee>vid9267</NewAssignee>
+<NewAssigneeName>Meenal Jain</NewAssigneeName>
+<OrgUnitDescription>TechTeam1</OrgUnitDescription>
+<OriginalMember>
+</OriginalMember>
+<OrigOrgUnitDescription>TechTeam1</OrigOrgUnitDescription>
+<Policy>
+<Group>
+</Group>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T15:43:25.700Z</pxCreateDateTime>
+<pxCreateOperator>vid9267</pxCreateOperator>
+<pxCreateOpName>Meenal Jain</pxCreateOpName>
+<pxUpdateDateTime>2021-09-18T01:43:47.499Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUpdateOrgUnit>007726</pxUpdateOrgUnit>
+<pxUrgencyWork>1</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81617</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>007726</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>Default@HMK</pyOrigUserWorkgroup>
+<pySLADeadline>2021-09-18T01:43:25.726Z</pySLADeadline>
+<pySLAGoal>2021-09-17T20:43:25.726Z</pySLAGoal>
+<pyStatusWork>Open</pyStatusWork>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81617</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81618">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>007726</AssignedToOrgUnit>
+<AssignedToWorkGroup>Default@HMK</AssignedToWorkGroup>
+<CostCenter>06026</CostCenter>
+<CTICall>
+</CTICall>
+<FinancialCostingType>Phone</FinancialCostingType>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<NewAssignee>vid9267</NewAssignee>
+<NewAssigneeName>Meenal Jain</NewAssigneeName>
+<OrgUnitDescription>TechTeam1</OrgUnitDescription>
+<OriginalMember>
+</OriginalMember>
+<OrigOrgUnitDescription>TechTeam1</OrigOrgUnitDescription>
+<Policy>
+<Group>
+</Group>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T16:05:19.047Z</pxCreateDateTime>
+<pxCreateOperator>vid9267</pxCreateOperator>
+<pxCreateOpName>Meenal Jain</pxCreateOpName>
+<pxUpdateDateTime>2021-09-18T02:05:22.554Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUpdateOrgUnit>007726</pxUpdateOrgUnit>
+<pxUrgencyWork>1</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81618</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>007726</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>Default@HMK</pyOrigUserWorkgroup>
+<pySLADeadline>2021-09-18T02:05:19.052Z</pySLADeadline>
+<pySLAGoal>2021-09-17T21:05:19.052Z</pySLAGoal>
+<pyStatusWork>Open</pyStatusWork>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81618</pzInsKey>
+</item>
+
+<item id="HHP_CS_CSD_WORK_INTERACTION_LVI_81619">
+<ASPID>HMK</ASPID>
+<AssignedToOrgUnit>008186</AssignedToOrgUnit>
+<AssignedToWorkGroup>EnrollmentandBilling</AssignedToWorkGroup>
+<ContactName>ERVIL BLAKENEY</ContactName>
+<CostCenter>06103</CostCenter>
+<CTICall>
+</CTICall>
+<DisclosureValue>Limited, General Information</DisclosureValue>
+<FinancialCostingType>Phone</FinancialCostingType>
+<HCCustomerType>Member</HCCustomerType>
+<InteractionType>phone</InteractionType>
+<IsCallerAlsoAMember>true</IsCallerAlsoAMember>
+<IsCallerAlsoSubscriber>false</IsCallerAlsoSubscriber>
+<NewAssignee>lid791g</NewAssignee>
+<NewAssigneeName>Charise L Murillo</NewAssigneeName>
+<OrgUnitDescription>PPS Customer Service</OrgUnitDescription>
+<OriginalMember>
+<isVerifyDelegated>false</isVerifyDelegated>
+</OriginalMember>
+<OrigOrgUnitDescription>PPS Customer Service</OrigOrgUnitDescription>
+<Policies subscript="1">
+<ContractID>ZAV1047119260010</ContractID>
+<EffectiveDate>2015-01-01</EffectiveDate>
+<GroupName>Penn State University</GroupName>
+<LineOfBusiness>Medical</LineOfBusiness>
+<PolicyStatus>Active</PolicyStatus>
+<ProductCode>PPO</ProductCode>
+</Policies>
+<Policies subscript="2">
+<ContractID>ZAV1047119260010</ContractID>
+<EffectiveDate>2018-01-01</EffectiveDate>
+<GroupName>The Pennsylvania State University</GroupName>
+<LineOfBusiness>Vision</LineOfBusiness>
+<PolicyStatus>Canceled</PolicyStatus>
+<ProductCode>VIS</ProductCode>
+<TermDate>2019-01-01</TermDate>
+</Policies>
+<Policy>
+<ContractDisplay>ZAV1047119260010 - Penn State University - 1/1/2015 - PPO - Medical</ContractDisplay>
+<ContractID>ZAV1047119260010</ContractID>
+<CoverageLOBList subscript="1">
+<LOBCode>PPO</LOBCode>
+<LOBDescription>PREFERRED PROVIDER ORG</LOBDescription>
+<ProductName>Freedom Blue PPO</ProductName>
+</CoverageLOBList>
+<EffectiveDate>2015-01-01</EffectiveDate>
+<Group>
+<ControlPlan>378</ControlPlan>
+<ControlPlanDescription>HIGHMARK BLUE SHIELD</ControlPlanDescription>
+<GroupIdentifier>01784285</GroupIdentifier>
+<GroupIndicator>01784285</GroupIndicator>
+<GroupName>Penn State University</GroupName>
+<ServicingPlan>378</ServicingPlan>
+<ServicingPlanDescription>PENNSYLVANIA BLUE SHIELD - A HIGHMARK COMPANY</ServicingPlanDescription>
+</Group>
+<InternalContractID>5656788020</InternalContractID>
+<Members subscript="1">
+<DateOfBirth>1959-06-30</DateOfBirth>
+<EffectiveDate>2015-01-01</EffectiveDate>
+<FullName>ERVIL G BLAKENEY</FullName>
+<GenderCode>male</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<IndividualRelationshipDescription>EMPLOYEE</IndividualRelationshipDescription>
+<MemberID>158569894</MemberID>
+<MemberIndex>001</MemberIndex>
+<MemberStatus>Active</MemberStatus>
+<OtherCoverageIndicator>false</OtherCoverageIndicator>
+<RelationshipCodeDesc>20 - EMPLOYEE</RelationshipCodeDesc>
+</Members>
+<PolicyType>IND</PolicyType>
+<PolicyTypeDesc>INDIVIDUAL</PolicyTypeDesc>
+<ProductCode>PPO</ProductCode>
+<SubscriberName>ERVIL G BLAKENEY</SubscriberName>
+</Policy>
+<pxApplication>HHPCSD</pxApplication>
+<pxCreateDateTime>2021-09-17T19:10:27.437Z</pxCreateDateTime>
+<pxCreateOperator>lid791g</pxCreateOperator>
+<pxCreateOpName>Charise L Murillo</pxCreateOpName>
+<pxUpdateDateTime>2021-09-18T00:10:50.351Z</pxUpdateDateTime>
+<pxUpdateOperator>System</pxUpdateOperator>
+<pxUpdateOpName>Agent(System-Queue-ServiceLevel.ProcessEvent)</pxUpdateOpName>
+<pxUpdateOrgUnit>008186</pxUpdateOrgUnit>
+<pxUrgencyWork>8</pxUrgencyWork>
+<pyDescription>Phone Call</pyDescription>
+<pyID>LVI-81619</pyID>
+<pyLabel>Live Interaction</pyLabel>
+<pyOrigOrgUnit>008186</pyOrigOrgUnit>
+<pyOrigUserWorkgroup>EnrollmentandBilling</pyOrigUserWorkgroup>
+<pySLADeadline>2021-09-18T05:10:27.454Z</pySLADeadline>
+<pySLAGoal>2021-09-18T00:10:27.454Z</pySLAGoal>
+<pyStatusWork>Open</pyStatusWork>
+
+<pyWorkParty subscript="Company">
+<ControlPlan>378</ControlPlan>
+<GroupName>Penn State University</GroupName>
+</pyWorkParty>
+<pyWorkParty subscript="Contact">
+<FullName>ERVIL BLAKENEY</FullName>
+<pyFirstName>ERVIL</pyFirstName>
+<pyLastName>BLAKENEY</pyLastName>
+</pyWorkParty>
+<pyWorkParty subscript="Group">
+<BusinessRelationshipCode>387</BusinessRelationshipCode>
+<BusinessRelationshipCodeDescription>378 HIGHMARK SENIOR HEALTH COMPANY</BusinessRelationshipCodeDescription>
+<ControlPlan>378</ControlPlan>
+<CustomerServiceNumber>1-866-918-5285</CustomerServiceNumber>
+<EffectiveDate>2015-01-01</EffectiveDate>
+<ERISAIndicator>false</ERISAIndicator>
+<GroupID>105593</GroupID>
+<GroupName>Penn State University</GroupName>
+<GroupNumber>01784285</GroupNumber>
+<GroupStatus>100</GroupStatus>
+<MarketSegmentDescription>Local</MarketSegmentDescription>
+<ProductList subscript="1">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PDG</LineOfBusinessCode>
+<ProductName>Rx Drug - Freedom Blue PPO Enhanced Alternative</ProductName>
+<ProductType>SG</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="2">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>PPO</LineOfBusinessCode>
+<ProductName>Freedom Blue PPO</ProductName>
+<ProductType>SG</ProductType>
+<RatingCode>8</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="3">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>AG</LineOfBusinessCode>
+<ProductName>Service - Spending Account - MED - FS</ProductName>
+<RatingCode>55</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<ProductList subscript="4">
+<LineOfBusiness>Line of Business</LineOfBusiness>
+<LineOfBusinessCode>AG</LineOfBusinessCode>
+<ProductName>Service - Spending Account - DCARE - FS</ProductName>
+<RatingCode>55</RatingCode>
+<SelfInsured>No</SelfInsured>
+</ProductList>
+<pyCompany>The Pennsylvania State University</pyCompany>
+<SalesRepsList subscript="1">
+<DistrictCode>Senior Group Markets</DistrictCode>
+<EffectiveDate>2020-03-01T05:00:00.000Z</EffectiveDate>
+<FullName>Tyler Quinn</FullName>
+<SalesRepresentativeType>1</SalesRepresentativeType>
+</SalesRepsList>
+<SalesRepsList subscript="2">
+<DistrictCode>Senior Group Markets</DistrictCode>
+<EffectiveDate>2021-01-01T05:00:00.000Z</EffectiveDate>
+<FullName>Jeanie Carson</FullName>
+<SalesRepresentativeType>2</SalesRepresentativeType>
+</SalesRepsList>
+</pyWorkParty>
+<pyWorkParty subscript="Member">
+<BusinessPartnerIdentificationCode>0</BusinessPartnerIdentificationCode>
+<DateOfBirth>1959-06-30</DateOfBirth>
+<EffectiveDate>2015-01-01</EffectiveDate>
+<FullName>ERVIL G BLAKENEY</FullName>
+<GenderCode>male</GenderCode>
+<IndividualRelationshipCode>20</IndividualRelationshipCode>
+<MemberID>158569894</MemberID>
+<MemberPortalRegistrationIndicator>false</MemberPortalRegistrationIndicator>
+<pyFirstName>ERVIL</pyFirstName>
+<pyLastName>BLAKENEY</pyLastName>
+</pyWorkParty>
+<SearchEndDate>2022-03-19</SearchEndDate>
+<SearchStartDate>2016-09-17</SearchStartDate>
+<pzInsKey>HHP-CS-CSD-WORK-INTERACTION LVI-81619</pzInsKey>
+</item>
+</HHP-CS-CSD-WORK-Interaction>
